@@ -593,8 +593,8 @@ textarea {
 #svg {
   /* margin-top: -1.9rem; */
 	/* padding: 2rem; */
-	width: 40%;
-	height: 40%;
+	width: 75px;
+	height: 75px;
   background-color: transparent;
   color: white;
 }
